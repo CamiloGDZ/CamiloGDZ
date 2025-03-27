@@ -45,8 +45,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CamiloGDZ/CamiloGDZ/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://imgcap.capturetheatlas.com/wp-content/uploads/2021/01/Photograph-Milky-Way-Panorama-1415x540-1621707808.jpg"  />
+</div>
 
 ###
