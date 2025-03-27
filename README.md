@@ -45,8 +45,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://imgcap.capturetheatlas.com/wp-content/uploads/2021/01/Photograph-Milky-Way-Panorama-1415x540-1621707808.jpg"  />
+  <img height="300" src="https://imgcap.capturetheatlas.com/wp-content/uploads/2021/01/Photograph-Milky-Way-Panorama-1415x540-1621707808.jpg"  />
 </div>
 
 ###
